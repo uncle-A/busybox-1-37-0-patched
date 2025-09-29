@@ -1,8 +1,7 @@
 # busybox-1-37-0-patched
 The patch and some warning fixes busybox ver. 1.37.0 for ARM build
 
-## Version 1.37.0 is used - [busybox-1_37_0.tar.bz2](https://git.busybox.net/busybox/snapshot/busybox-1_37_0.tar.bz2)
-The packaged package is located in the file - **busybox-1.37.0.tar.bz2**
+- Version 1.37.0 is used - [busybox-1_37_0.tar.bz2](https://git.busybox.net/busybox/snapshot/busybox-1_37_0.tar.bz2)
 
 ## The following patches have been applied to version 1.37.0 **busybox-1.37.0.patched.tar.bz2**
 

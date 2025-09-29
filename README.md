@@ -3,7 +3,9 @@ The patch and some warning fixes busybox ver. 1.37.0 for ARM build
 
 - Version 1.37.0 is used - [busybox-1_37_0.tar.bz2](https://git.busybox.net/busybox/snapshot/busybox-1_37_0.tar.bz2)
 
-## The following patches have been applied to version 1.37.0 **busybox-1.37.0.patched.tar.bz2**
+## The following patches have been applied to version 1.37.0 
+
+**busybox-1.37.0.patched.tar.bz2**
 
 - [fixes non-i386 and x86 builds](https://lists.busybox.net/pipermail/busybox/2024-October/090953.html)
 
